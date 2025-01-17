@@ -1,6 +1,6 @@
-train: Yolov11-Segmatation/train
-val: (enter the path of the val folder)
+train: 1
+#val: (enter the path of the val folder)
 
-nc: (enter how many classes you have)
+#nc: (enter how many classes you have)
 
-names: [(enter the classes)]
+#names: [(enter the classes)]
