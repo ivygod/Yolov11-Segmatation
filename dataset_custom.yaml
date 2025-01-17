@@ -1,4 +1,4 @@
-train: (enter the path of the train folder)
+train: Yolov11-Segmatation/train
 val: (enter the path of the val folder)
 
 nc: (enter how many classes you have)
