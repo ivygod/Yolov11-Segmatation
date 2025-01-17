@@ -16,10 +16,8 @@ First go to the Directory you are making this in with anaconda prompt
 Then Copy this code and put it in
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+conda create -n yolov11_seg python=3.11 -y
 ```
- conda create -n yolov11_seg python=3.11 -y
+ 
 
 Make sure to download python on mac
