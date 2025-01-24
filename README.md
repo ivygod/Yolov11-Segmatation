@@ -1,5 +1,5 @@
 # Yolov11-Segmatation
-an ai training thing called ultralytics
+an ai training program called ultralytics
 
 # IMPORTENT
                           
