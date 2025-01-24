@@ -1,6 +1,6 @@
 # Yolov11-Segmatation
 an ai training program called ultralytics
-
+Yolo: Ultralytics AI app. Coding: Python; Pycharm
 # IMPORTENT
                           
 Download This to use this ai ⬇
